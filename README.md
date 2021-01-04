@@ -1,6 +1,10 @@
 # Mass-Purge-DM
 A simple tool that mass deletes messages for each friend you have on discord
 
+| Mass Purge DM | 
+| ------------- | 
+| ![result](https://media3.giphy.com/media/hY1HiIc6ODzgNaN2GK/giphy.gif) |
+
 ## Requirements Before Set-up:
 
 1. [Node.JS](https://nodejs.org/en/) installed.
