@@ -1,5 +1,5 @@
 // https://github.com/17teen
-// Discord: 7teen#1464
+// Discord: thug angel#3868
 
 const Discord = require("discord.js");
 const { red, green, blue, yellow, cyan, greenBright, cyanBright, yellowBright } = require('chalk');
@@ -21,7 +21,7 @@ const title = String.raw`
                           ░░        ░░░ ░ ░   ░░   ░ ░ ░   ░    ░     ░░   ░ 
                           ░        ░           ░    ░  ░   ░     
                                                    
-                                         Author: 7teen#1464
+                                         Author: thug angel#3868
 
 `;
 
