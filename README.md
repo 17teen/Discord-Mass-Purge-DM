@@ -1,3 +1,5 @@
+# THIS TOOL HAS NOW BEEN DISCONTINUED. NO MORE FURTHER WORKS WILL BE MADE FOR THIS TOOL IN JS VERSION. SELFBOTTING IN D.JS IS NOW RENDERED USELESS AND SO IS THIS TOOL.
+
 # Mass-Purge-DM
 A simple tool that mass deletes messages for each friend you have on discord
 
