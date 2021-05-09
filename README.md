@@ -48,4 +48,4 @@ Limit: 100 Messages per friend
 
 # Disclaimer
 
-***The use of selfbots are against Discord's ToS. Use this at your own risk.***
+This is tool was made for educational purposes and proof of concepts. I'm not accountable for any unlawful, unprecedented action and any violation of ToS administered by a third party.
